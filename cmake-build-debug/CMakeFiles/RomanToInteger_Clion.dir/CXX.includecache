@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rhani/OneDrive/Documents/LeetCode/RomanToInteger_Clion/RomanToInteger.h
+string
+-
+
+C:/Users/rhani/OneDrive/Documents/LeetCode/RomanToInteger_Clion/main.cpp
+iostream
+-
+RomanToInteger.h
+C:/Users/rhani/OneDrive/Documents/LeetCode/RomanToInteger_Clion/RomanToInteger.h
+
